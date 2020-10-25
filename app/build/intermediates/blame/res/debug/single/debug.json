@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login__sign_up.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\activity_login__sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_welcome_back.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\toast_welcome_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_apk.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\logo_apk.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_path_box.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\path_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\menu\\menu_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_path_crown.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_path_connector.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\path_connector.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_path_box.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\path_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_apk.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\logo_apk.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_path_background.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\path_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_welcome_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\welcome_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_w.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\logo_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\stick.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_crown.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_username.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_username.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_path_box.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\path_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_w.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\logo_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\logo_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_path_connector.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\path_connector.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\stick.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_path_background.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\path_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_welcome_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\welcome_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\stick.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_welcome_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\welcome_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_connector.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\path_connector.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_login_signup_button.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\design_login_signup_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_or_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\or_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gradient_of_login_signup_screen.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\background_gradient_of_login_signup_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_logout_popup.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\logout_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_animation.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\anim\\splash_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_or_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\or_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_round_padded_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\background_round_padded_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_path_crown.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_or_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\or_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toast_background.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\toast_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\logo_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_apk.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_apk.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\logo_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_w.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\logo_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_or_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\or_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_path_crown.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_left_pannel.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\shape_left_pannel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\logo_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_leaf.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_leaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_or_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\or_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\stick.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\fragment_home_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create__account_signup.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\activity_create__account_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_background.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\path_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_w.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_path_connector.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\path_connector.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_w.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\logo_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\header_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_w.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\logo_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\stick.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_stick.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\anim\\splash_stick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_path_connector.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\path_connector.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\stick.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_welcome_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\welcome_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_apk.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\logo_apk.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_pink.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_account_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_path_crown.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_apk.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\logo_apk.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_path_background.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\path_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_box.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\path_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_path_background.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\path_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_path_crown.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\logo_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_path_box.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\path_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_of_or_in_signup_login.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\circle_of_or_in_signup_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_apk.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\logo_apk.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_exit_from_app_popup.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\exit_from_app_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cake.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_cake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flower.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\ic_flower.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_background_color_state.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\menu_background_color_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_welcome_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\welcome_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\color_menu_item_color_state.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\color\\menu_item_color_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\font_delius_unicase_bold.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\font\\delius_unicase_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_path_connector.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\path_connector.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_right_pannel.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\shape_right_pannel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_or_ellipse.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\or_ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_path_background.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xxxhdpi\\path_background.png"
+    }
+]
