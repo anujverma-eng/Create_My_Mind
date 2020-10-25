@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">create mind</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="continue_with_google_button">CONTINUE WITH GOOGLE</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

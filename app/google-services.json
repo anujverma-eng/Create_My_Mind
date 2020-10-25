@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013443745084",
+    "firebase_url": "https://create-mind-app.firebaseio.com",
+    "project_id": "create-mind-app",
+    "storage_bucket": "create-mind-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013443745084:android:de91bb1c82bb5a1e127a39",
+        "android_client_info": {
+          "package_name": "com.example.createmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013443745084-4q4nitq9qnb8s81s1t55bkrpm73obmll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.createmind",
+            "certificate_hash": "ac006209b1247774fa88262fdf9bbc690bb905d8"
+          }
+        },
+        {
+          "client_id": "1013443745084-ov0tnkmpmlov66024ane8b8c5kovv9of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhH2xGYshhyOtob37EHgusX0DZv5GtTtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013443745084-ov0tnkmpmlov66024ane8b8c5kovv9of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

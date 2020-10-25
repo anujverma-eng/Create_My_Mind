@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_menu_button"
+            android:title="Home"/>
+        <item
+            android:id="@+id/favorite_menu_button"
+            android:title="Favourites"/>
+        <item
+            android:id="@+id/like_menu_button"
+            android:title="Liked"/>
+        <item
+            android:id="@+id/author_menu_button"
+            android:title="Authors"/>
+
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/login_menu_button"
+                    android:title="Login"/>
+                <item
+                    android:id="@+id/logout_menu_button"
+                    android:title="LogOut"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="share">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/share_menu_button"
+                    android:title="Share"/>
+                <item
+                    android:id="@+id/Rate_menu_button"
+                    android:title="Rate Us"/>
+                <item
+                    android:id="@+id/about_menu_button"
+                    android:title="About Us"/>
+            </group>
+        </menu>
+    </item>
+</menu>
