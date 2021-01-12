@@ -19,7 +19,7 @@
         android:padding="15dp"
         android:shadowColor="#A7FFEB"
         android:shadowRadius="10"
-        android:text="Pick up Thought To Learn"
+        android:text="You Sucessfully Enter the App"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#004d40"

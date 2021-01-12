@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\logo_w.png"
     },
     {
-        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stick.png.flat",
-        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\stick.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_crown.png.flat",
         "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\path_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-hdpi\\stick.png"
     },
     {
         "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_username.xml.flat",
@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-mdpi\\path_connector.png"
     },
     {
-        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_stick.png.flat",
-        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\stick.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_path_background.png.flat",
         "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-xhdpi\\path_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_stick.png.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-ldpi\\stick.png"
     },
     {
         "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_boarding.xml.flat",
@@ -132,12 +132,12 @@
         "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gradient_of_login_signup_screen.xml.flat",
-        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\background_gradient_of_login_signup_screen.xml"
-    },
-    {
         "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_logout_popup.xml.flat",
         "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\layout\\logout_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gradient_of_login_signup_screen.xml.flat",
+        "source": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\src\\main\\res\\drawable\\background_gradient_of_login_signup_screen.xml"
     },
     {
         "merged": "C:\\Users\\Acer\\AndroidStudioProjects\\createmind\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
